@@ -1,5 +1,5 @@
 {
-	"token": "",
+	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTE0NDY4MSwianRpIjoiODMyYmVhM2U4ZjkwNGFiN2FjOGVlOTE4MjA1OWM3OTkiLCJ1c2VyX2lkIjo0MDQ5OX0.ZPowulXVP_mlJfB4cSoMJqBRzoXFCKSFRqUsov0v_tI",
 	"team_pk": "20",
 	"evalai_host_url": "https://99b2-2401-4900-8257-c2a5-3540-44a1-5073-b8aa.ngrok-free.app/"
 }
